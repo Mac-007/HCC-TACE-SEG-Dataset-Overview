@@ -1,9 +1,6 @@
 # HCC-TACE-SEG-Dataset-Overview
 
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/HCC-TACE-Seg_0.avif"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em></em></p>
+<div align="center"> <a href="https://www.cancerimagingarchive.net/collection/hcc-tace-seg/"><img width="700px" height="auto" src="https://www.cancerimagingarchive.net/wp-content/uploads/2021/06/TCIA-Logo-01.png"></a> </div> <p style="text-align:center;font-size:10px;"><em></em></p>
 
 ## Dataset Information
 
