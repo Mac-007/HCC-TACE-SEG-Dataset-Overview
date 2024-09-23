@@ -69,9 +69,5 @@ Please cite the dataset using the following reference:
   year={2021}
 }
 ```
-
-Original introduction article can be found [here](https://zhuanlan.zhihu.com/p/708599534).
-
 ---
 
-For further details, contributions, or inquiries, please visit our [GitHub repository](https://github.com/openmedlab/).
