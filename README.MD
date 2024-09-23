@@ -41,13 +41,6 @@ HCC is the most common primary liver cancer, and its incidence has doubled in th
 | portal vein | 224         | 100%     | 3.29                  | 20.3                | 188.73               |
 | aorta       | 224         | 100%     | 2.85                  | 10.71               | 126.53               |
 
-## Visualization
-
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/HCC-TACE-Seg_1.webp"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em>Red indicates the liver, green indicates liver tumors, small blue areas indicate the portal vein, and yellow indicates the aorta.</em></p>
-
 ## File Structure
 
 In the repository, the `File Structures` directory contains the following files:
